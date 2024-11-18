@@ -5,11 +5,11 @@ from tkinter import ttk, filedialog, messagebox
 
 # Configuration for the subject folders
 SUBJECT_FOLDERS = {
-    "Computer Network": "E:\Studies\Third Year First Term\Computer Networks",
-    "Computer Graphics": "E:\Studies\Third Year First Term\Computer Graphics and Visuals",
-    "Foundation of Information System": "E:\Studies\Third Year First Term\Foundation of information systems",
-    "Intelligent System": "E:\Studies\Third Year First Term\Intelligent System",
-    "Database System": "E:\Studies\Third Year First Term\Database System",
+    "Computer Network": "E:\Path\To\Folder",
+    "Computer Graphics": "E:\Path\To\Folder",
+    "Foundation of Information System": "E:\Path\To\Folder",
+    "Intelligent System": "E:\Path\To\Folder",
+    "Database System": "E:\Path\To\Folder",
 }
 
 # Function to add files to the listbox
