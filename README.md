@@ -53,12 +53,13 @@ To run this project, you will need to update the ```SUBJECT_FOLDERS``` dictionar
 
 ```
 SUBJECT_FOLDERS = {
-    "Computer Network": "E:/3rd year 1st term/Computer network",
-    "Computer Graphics": "E:/3rd year 1st term/Computer graphics",
-    "Foundation of Information System": "E:/3rd year 1st term/foundation of information system",
-    "Intelligent System": "E:/3rd year 1st term/intelligent system",
-    "Database System": "E:/3rd year 1st term/database system",
+    "Computer Network": "E:\Path\To\Folder",
+    "Computer Graphics": "E:\Path\To\Folder",
+    "Foundation of Information System": "E:\Path\To\Folder",
+    "Intelligent System": "E:\Path\To\Folder",
+    "Database System": "E:\Path\To\Folder",
 }
+
 ```
 
 ## Contributing
